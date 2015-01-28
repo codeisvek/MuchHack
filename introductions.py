@@ -7,3 +7,5 @@ def introduce_david():
 def introduce_sucker():
     print "Hi this is daylen"
 
+def daylen_funky():
+	print "haha"
