@@ -4,6 +4,9 @@ def introduce_best():
 def introduce_david():
     print "Hi! I'm David"
 
+def introduce_alex():
+    print "Alex here!"
+
 def introduce_sucker():
     print "Hi this is daylen"
 
